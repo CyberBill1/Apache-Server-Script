@@ -1,4 +1,2 @@
 # Apache-Server-Script
-This Linux Bash Shell Script runs in 4 different stages with delays in each of the stages
-The 4 steps includes:
-Step 1: The script outputs and shows the user what it is expected to do while showing the Timestamp
+Apache is the most popular server there is in the world. Because of its open source nature it is the favourite for 
