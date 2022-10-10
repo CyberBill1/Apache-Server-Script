@@ -1,0 +1,6 @@
+This Linux Bash Shell Script runs in 4 different stages with delays in each of the stages
+The 4 steps includes:
+Step 1: The script outputs and shows the user what it is expected to do while showing the current Timestamp of the machine
+It delays for 2 seconds
+Step 2: The script verifies if the logged on account is the root and grants installation access otherwise it denies access
+Step 3
